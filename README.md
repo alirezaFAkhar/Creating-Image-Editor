@@ -31,6 +31,6 @@
 
 ## :handshake: Contact
 
-Alireza Fakhar - - alirezaaaafakhar1996@gmail.com
+Alireza Fakhar - alirezaaaafakhar1996@gmail.com
 
 Project Link: [https://github.com/alirezaFAkhar/Creating-Image-Editor](https://github.com/alirezaFAkhar/Creating-Image-Editor)
